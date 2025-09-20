@@ -91,7 +91,7 @@ README.md                    # Project description and usage guide
 
 # ✨ Author
 
-Meghana Nanuvala
+-**Meghana Nanuvala**
 Master's student in Computer Science, Indiana University
 Research interests: AI/ML, Generative Models, Agentic AI, Full Stack Software Engineer
 
