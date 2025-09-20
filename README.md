@@ -32,10 +32,10 @@ This repository contains an end-to-end implementation of a **mini GPT-style lang
 
 ## 📂 Repository Structure
 
-├── mini_gpt_meghana.ipynb # Jupyter Notebook with full implementation
+```├── mini_gpt_meghana.ipynb # Jupyter Notebook with full implementation
 ├── Meghana_mini_gpt.pdf # Project report with detailed explanation
 ├── mini_gpt_documentation.pdf # Additional documentation
-└── README.md # Project description and usage guide
+└── README.md # Project description and usage guide```
 
 
 ## 📊 Results
